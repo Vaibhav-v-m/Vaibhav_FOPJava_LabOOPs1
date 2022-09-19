@@ -1,5 +1,6 @@
 # Vaibhav_FOPJava_LabOOPs1
 This application will do the following:
+
 a) Generate an email with the following syntax
 firstNamelastName@department.company.com
 
